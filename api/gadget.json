@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "id": "01",
+            "name": "cox`x bazar",
+            "price": "$2500",
+            "image": "image/cox.png"
+        },
+        {
+            "id": "02",
+            "name": "sundorbon",
+            "price": "$2000",
+            "image": "image/sundorbon.png"
+        },
+        {
+            "id": "03",
+            "name": "sajek",
+            "price": "$1500",
+            "image": "image/sajek.png"
+        },
+        {
+            "id": "04",
+            "name": "rangamati",
+            "price": "$1000",
+            "image": "image/rangamati.png"
+        }
+       
+
+    ]
+}
